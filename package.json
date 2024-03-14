@@ -1,0 +1,32 @@
+{
+  "name": "spell-corrector-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tea",
+    "airdrop",
+    "spell-corrector"
+  ],
+  "author": "JerryXun0311",
+  "license": "ISC",
+  "dependencies": {
+    "dictionary-en": "^4.0.0",
+    "nspell": "^2.1.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerryXun0311/spell-corrector-tea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JerryXun0311/spell-corrector-tea/issues"
+  },
+  "homepage": "https://github.com/JerryXun0311/spell-corrector-tea/blob/main/README.md"
+}
